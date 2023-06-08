@@ -20,7 +20,7 @@
 *	Идем к следующему кругу внутри цикла for п.2. И так до конца цикла.
 3.	Возвращаем в качестве результата метода GetArrayOfThreeSymbols() массив строк result.
 
-![блок схема.png](https://cloud.mail.ru/public/QvDh/eRubguTPr)
+![блок схема.png] (https://cloud.mail.ru/public/bw6A/AVzTKXz9G)
 
 
 
